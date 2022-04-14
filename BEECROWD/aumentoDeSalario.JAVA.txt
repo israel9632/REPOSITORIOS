@@ -1,12 +1,9 @@
-import java.util.Scanner;
-  
+import java.util.Scanner;  
 public class Main {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
-    double salario, novoSalario, reajuste;
-      
-    salario = sc.nextDouble();    
-  
+    double salario, novoSalario, reajuste;      
+    salario = sc.nextDouble();      
     if (salario<=400) {    
         reajuste = salario*0.15;
         novoSalario = salario+reajuste;
