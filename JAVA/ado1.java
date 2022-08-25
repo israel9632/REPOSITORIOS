@@ -1,13 +1,13 @@
-/**-------------------------------------------------*
- *     SENAC - TADS - ALGORITMOS E PROGRAMAÇÃO 2    *                
- *                ADO 01, EXERCICIO 07              *
- * 												---												*
+/*--------------------------------------------------*
+ *    SENAC - TADS - ALGORITMOS E PROGRAMAÇÃO 2     *
+ *    ADO 01, EXERCICIO 07              						*
+ * 		------------------------------------------		*
  * 		ALUNO: ISRAEL DA SILVA SANTOS									*
  * 		PROF: MARCOS MONTEIRO													*
  *--------------------------------------------------*/
 
 import javax.swing.JOptionPane;
-public class ado1 {
+public class ado1{
 	public static void main(String[] args) {
 		int tMat = Integer.parseInt(JOptionPane.showInputDialog("Informe o tamanho da Matriz: "));
 		int[][] matA = new int[tMat][tMat];
