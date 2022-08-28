@@ -30,7 +30,7 @@ public class ado1{
 		for (int i = 0; i < a.length; i++) {
 			resultadoSoma += a[i][0];
 		}
-		// verifica linha completa
+		// verifica linhas
 		for (int i = 0; i < a.length; i++) {
 			int somaLinha = 0;
 			for (int j = 0; j < a[0].length; j++) {
