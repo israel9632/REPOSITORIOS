@@ -1,1 +1,1 @@
-# Repositório de exercícios em Java, JavaScript e C
+# Aqui estão alguns exercícios e programas realizados em sala de aula e exercícios interessantes.
